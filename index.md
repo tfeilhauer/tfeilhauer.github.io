@@ -8,3 +8,6 @@ very short description of character
 * trait 2
 * trait 3
 * trait 4
+
+Here comes the quote:
+> this is a quote
